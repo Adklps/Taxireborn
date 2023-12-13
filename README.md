@@ -1,2 +1,26 @@
-# Taxireborn
- Created for my lovely teacher who always finds ways to make my life uneasy.
+
+# Phenomenal c# task assigned by our great leader
+
+I swear I'll kill myself if he don't accept this
+
+
+## Author
+
+- [klepi <3](https://github.com/Adklps)
+
+
+## Usage
+
+Bruv it is so simple I hope u reading this just for fun
+
+```bash
+  No commands, just wait until it loads everything(takes only 1-2 min)
+```
+
+## Motto while I was working:
+![Logo](https://www.boredpanda.com/blog/wp-content/uploads/2022/04/raccoon-memes-instagram-624ae8c78c21d__700.jpg)
+
+
+
+## Listened to while dealing with this depressive task:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=7GmA9hDInGKV4hH0pvuvcC&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
