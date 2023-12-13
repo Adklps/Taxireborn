@@ -6,7 +6,12 @@ I swear I'll kill myself if he don't accept this
 
 ## Author
 
-- [klepi <3](https://github.com/Adklps)
+- [klepi](https://github.com/Adklps)
+- [Bogy <3](https://github.com/hubertaron)
+- [Husi](https://github.com/KoromHusi)
+- [Dave](https://github.com/dancsikdavid)
+  
+  
 
 
 ## Usage
