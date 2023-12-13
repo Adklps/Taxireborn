@@ -24,4 +24,5 @@ Bruv it is so simple I hope u reading this just for fun
 
 ## Listened to while dealing with this depressive task:
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hm0bq05plf3kjeq1mqr7lw11o&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)
-[![song](https://github.com/Adklps/Taxireborn/blob/main/assets/view.svg?raw=true)](https://open.spotify.com/track/7GmA9hDInGKV4hH0pvuvcC?si=4b311b0f610b4d29)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/7GmA9hDInGKV4hH0pvuvcC?si=b7cf7922fca34a51)
+
